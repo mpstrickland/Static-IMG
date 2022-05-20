@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 53,
+    "height" : 94
+  }, {
+    "width" : 105,
+    "height" : 188
+  }, {
+    "width" : 210,
+    "height" : 375
+  }, {
+    "width" : 419,
+    "height" : 750
+  }, {
+    "width" : 837,
+    "height" : 1500
+  }, {
+    "width" : 1674,
+    "height" : 3000
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1674,
+  "@id" : "https://mpstrickland.github.io/Static-IMG/images/HMSG-83.66",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3000
+}
